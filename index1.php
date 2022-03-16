@@ -28,7 +28,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
-        <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+        <a href="index1.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
             <h2 class="m-0 text-primary"><i class="fa fa-home me-3"></i>W.Travele</h2>
         </a>
         <div class="mr-auto"></div>
