@@ -1,0 +1,53 @@
+
+body{
+    background-image: linear-gradient(to right, rgb(66, 56, 56) , #b3b3a6);
+}
+.R{
+    background-image: url(images/travelbus.jpg);
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+.row_white{
+    margin-top: 100px;
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+.a{
+    margin-top: 300px;
+}
+.fom{
+    background-color: rgb(153, 168, 168);
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+#bus_id{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.hs1,.hs2,.hs3{
+    text-decoration: underline;
+}
+
+a{
+    color: aliceblue;
+    font-size: medium;
+}
+.form-control{
+    width: 50px;
+}
+.LC{
+    margin-bottom: 10vh;
+
+}
+.seat1{
+    padding: 16px 32px;
+    width: 50px;
+    height: 30px;
+}
